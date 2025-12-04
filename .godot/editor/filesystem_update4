@@ -5,3 +5,4 @@ res://assets/background/space_material.tres
 res://gem.tscn
 res://health_pack.tscn
 res://lessons/ship.tscn
+res://lessons/ship.gd
